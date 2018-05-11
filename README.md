@@ -6,7 +6,7 @@ fetch top ten cryptocurrencys
 * requests
 * Also you need linux or mac
 
-## How to use and install
+## how to install
 ```
 $ mkdir -p ~/repos/crytpoApi/cryptoApi
 ```
@@ -16,4 +16,8 @@ $ git clone git@github.com:whvod/cryptoApi.git
 
 ```
 $ echo "alias top10='python3.6 ~/repos/cryptoApi/cryptoApi/cryptoPrices.py'" >> ~/.bash_aliases && source ~/.bash_aliases
+```
+## how to use
+```
+$ top10
 ```

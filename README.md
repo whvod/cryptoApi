@@ -15,7 +15,7 @@ $ git clone https://github.com/whvod/cryptoApi.git ~/repos/cryptoApi/
 ``` 
 
 ```
-$ echo "alias top10='python3.6 ~/repos/cryptoApi/cryptoApi/cryptoApi/cryptoPrices.py'" >> ~/.bash_aliases && source ~/.bash_aliases
+$ echo "alias top10='python3.6 ~/repos/cryptoApi/cryptoApi/cryptoPrices.py'" >> ~/.bash_aliases && source ~/.bash_aliases
 ```
 ## how to use
 ```

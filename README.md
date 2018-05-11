@@ -8,7 +8,7 @@ fetch top ten cryptocurrencys
 
 ## how to install
 ```
-$ mkdir -p ~/repos/crytpoApi/cryptoApi
+$ mkdir -p ~/repos/cryptoApi/cryptoApi
 ```
 ```
 $ git clone git@github.com:whvod/cryptoApi.git >> ~/repos/cryptoApi/

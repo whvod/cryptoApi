@@ -11,7 +11,7 @@ fetch top ten cryptocurrencys
 $ mkdir -p ~/repos/crytpoApi/cryptoApi
 ```
 ```
-$ git clone git@github.com:whvod/cryptoApi.git
+$ git clone git@github.com:whvod/cryptoApi.git >> ~/repos/cryptoApi/
 ``` 
 
 ```
